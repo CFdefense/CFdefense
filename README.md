@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello!
 
-<!--
-**CFdefense/CFdefense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Christian Farrell and I am interested in all things Computer Science and Cyber Security
 
-Here are some ideas to get you started:
+Skills:
+I am Adept with Python and Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning C++.
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CFdefense&theme=tokyonight)
+
+Contact:
+[Linkedin](https://www.linkedin.com/in/christian-farrell-b6a268211/)
+[Email](mailto:CFdefence@gmail.com)
