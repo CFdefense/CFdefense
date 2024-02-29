@@ -5,7 +5,7 @@ My Name is Christian Farrell and I am interested in all things Computer Science 
 Skills:
 I am Adept with Python and Java.
 
-Currently learning C++.
+Currently learning C++ & Typescript.
 
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CFdefense&theme=tokyonight)
