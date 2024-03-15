@@ -12,9 +12,9 @@ Currently learning C++ & Typescript.
 
 <table>
     <tr>
-        <th>My Linkedin</th>
-        <th>My LeetCode</th>
-        <th>My Email</th>
+        <th>Linkedin</th>
+        <th>LeetCode</th>
+        <th>Email</th>
     </tr>
     <tr>
         <td style="text-align: center;">
