@@ -1,11 +1,7 @@
 Hello!
 
-My Name is Christian Farrell and I am interested in all things Computer Science and Cyber Security
-
-Skills:
-I am Adept with Python and Java.
-
-Currently learning C++ & Typescript.
+My Name is Christian Farrell and I am interested in all things Computer Science and Cyber Security.
+I am Adept with Python and Java and I am also currently learning C++ & Typescript.
 
 
 <br/>
@@ -22,20 +18,3 @@ Currently learning C++ & Typescript.
 </table>
 
 <br/>
-
-### Support my Work
-
-<br/>
-<a href="Your Buy Me a Coffee URL"><img src="Buy Me a Coffee Logo URL"/></a>
-
-<br />
-
-### My GitHub Stats
-
-<table>
-    <!-- GitHub stats rows -->
-
-Contact:
-[https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white]
-(https://www.linkedin.com/in/christian-farrell-b6a268211/)
-[Email](mailto:CFdefence@gmail.com)
