@@ -18,7 +18,7 @@ Currently learning C++ & Typescript.
     </tr>
     <tr>
         <td>
-            <a href="www.linkedin.com/in/christian-farrell"><img src="https://companieslogo.com/img/orig/linkedin-2c3012a9.png?t=1700798504"/></a>
+            <a href="www.linkedin.com/in/christian-farrell"><img src="https://companieslogo.com/img/orig/linkedin-2c3012a9.png?t=1700798504"width="50" height="50"/></a>
         </td>
         <td>
             <a href="Your Website URL">🌐</a>
