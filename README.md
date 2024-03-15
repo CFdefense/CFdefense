@@ -8,7 +8,52 @@ I am Adept with Python and Java.
 Currently learning C++ & Typescript.
 
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CFdefense&theme=tokyonight)
+<br/>
+
+<table>
+    <tr>
+        <th>My Blog</th>
+        <th>My Website</th>
+        <th>My CV</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="Your Blog URL"><img src="Your Blog Logo URL"/></a>
+        </td>
+        <td>
+            <a href="Your Website URL">🌐</a>
+        </td>
+        <td>
+            <a href="Your CV URL">📃</a>
+        </td>
+    </tr>
+</table>
+
+### Contact me:
+
+<a href="Your Twitter URL"><img src="Twitter Logo URL" width="40" height="40"/></a>
+<a href="Your LinkedIn URL"><img src="LinkedIn Logo URL" width="40" height="40"/></a>
+<a href="Your Pinterest URL"><img src="Pinterest Logo URL" width="40" height="40"/></a>
+
+### Toolset
+
+<table>
+    <!-- Toolset rows -->
+</table>
+
+<br/>
+
+### Support my Work
+
+<br/>
+<a href="Your Buy Me a Coffee URL"><img src="Buy Me a Coffee Logo URL"/></a>
+
+<br />
+
+### My GitHub Stats
+
+<table>
+    <!-- GitHub stats rows -->
 
 Contact:
 [https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white]
