@@ -11,5 +11,6 @@ Currently learning C++ & Typescript.
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CFdefense&theme=tokyonight)
 
 Contact:
-[Linkedin](https://www.linkedin.com/in/christian-farrell-b6a268211/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+](https://www.linkedin.com/in/christian-farrell-b6a268211/)
 [Email](mailto:CFdefence@gmail.com)
