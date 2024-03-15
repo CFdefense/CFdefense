@@ -12,13 +12,13 @@ Currently learning C++ & Typescript.
 
 <table>
     <tr>
-        <th>My Blog</th>
-        <th>My Website</th>
-        <th>My CV</th>
+        <th>My Linkedin</th>
+        <th>My LeetCode</th>
+        <th>My Email</th>
     </tr>
     <tr>
         <td>
-            <a href="Your Blog URL"><img src="Your Blog Logo URL"/></a>
+            <a href="www.linkedin.com/in/christian-farrell"><img src="https://simpleicons.org/icons/linkedin.svg"/></a>
         </td>
         <td>
             <a href="Your Website URL">🌐</a>
