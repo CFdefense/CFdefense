@@ -21,7 +21,7 @@ Currently learning C++ & Typescript.
             <a href="www.linkedin.com/in/christian-farrell"><img src="https://companieslogo.com/img/orig/linkedin-2c3012a9.png?t=1700798504"width="50" height="50"/></a>
         </td>
         <td>
-            <a href="Your Website URL">🌐</a>
+            <a href="LeetCode"><img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png"width="50" height="50"/></a>
         </td>
         <td>
             <a href="Your CV URL">📃</a>
