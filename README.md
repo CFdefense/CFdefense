@@ -1,4 +1,4 @@
-1Hello!
+Hello!
 
 My Name is Christian Farrell and I am interested in all things Computer Science and Cyber Security
 
