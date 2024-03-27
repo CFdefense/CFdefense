@@ -1,7 +1,7 @@
 Hello!
 
 My Name is Christian Farrell and I am interested in all things Computer Science and Cyber Security.
-I am Adept with Python and Java and I am also currently learning C++ & Typescript.
+I am Adept with Python and Java and I am also currently learning C++ & Typescript/JavaScript.
 
 
 ### Contact me:
