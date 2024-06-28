@@ -4,7 +4,7 @@ My Name is Christian Farrell and I am interested in all things Computer Science 
 I am Adept with Python and Java and I am also currently learning C++, Typescript/JavaScript, and HTML.
 
 
-### Contact me:
+### Socials:
 
 <a href="https://linkedin.com/in/christian-farrell1"><img src="https://companieslogo.com/img/orig/linkedin-2c3012a9.png?t=1700798504" width="40" height="40"/></a>
 <a href="https://leetcode.com/CFdefense/"><img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" width="40" height="40"/></a>
