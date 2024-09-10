@@ -18,3 +18,4 @@ Feel Free to Reach out!
 - [Chippy 8](https://github.com/CFdefense/Chip-8-Emulator) - A Fun And Interactive Way to Play Retro Games.
 - [Doom](https://github.com/CFdefense/DoomGame) - A DOOM-style CLI game.
 - [Algorithms](https://github.com/CFdefense/CMPT435L) - Everything Algorithms and Data Structures.
+- [Dotfiles](https://github.com/CFdefense/dotfiles) - My Arch Linux Hyprland Dot Files
