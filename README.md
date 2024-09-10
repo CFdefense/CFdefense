@@ -14,7 +14,7 @@ Feel Free to Reach out!
 
 
 ### 📁 Featured Projects:
-- [6502 Compiler](https://github.com/CFdefense/CMPT432N-6502-Java-Compiler) - My Beautiful 6502 Compiler.
+- [6502 Compiler](https://github.com/CFdefense/CMPT432N-6502-Java-Compiler) - My Beautiful 6502 Microprocessor Compiler.
 - [Chippy 8](https://github.com/CFdefense/Chip-8-Emulator) - A Fun And Interactive Way to Play Retro Games.
 - [Doom](https://github.com/CFdefense/DoomGame) - A DOOM-style CLI game.
 - [Algorithms](https://github.com/CFdefense/CMPT435L) - Everything Algorithms and Data Structures.
