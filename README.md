@@ -1,6 +1,6 @@
 **Hello!**
 
-My Name is Christian Farrell. I am a Sophomore at Marist College studying Computer Science and Cybersecurity. 
+My Name is Christian Farrell. I am a sophomore at Marist College, where I am studying computer science and cybersecurity. 
 <br></br>
 I am interested in all things CS, Cyber, Gaming, Anime, and Lacrosse. 
 <br></br>
