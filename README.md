@@ -1,4 +1,4 @@
-**Hello!**
+<h2>Hello!</h2>
 
 My Name is Christian Farrell. I am a sophomore at Marist College, where I am studying computer science and cybersecurity. 
 <br /><br />
