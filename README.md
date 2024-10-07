@@ -17,7 +17,8 @@ Feel Free to Reach out!
 
 
 ### 📁 Featured Projects:
-- [AI Menu Alerts](https://github.com/CFdefense/MenuAlertsAI) - **(Most Recent)** AI Menu SMTP Notifier
+- [Gameboy Emulator](https://github.com/CFdefense/GameBoy) - **(Most Recent)** Rust Gameboy Emulator
+- [AI Menu Alerts](https://github.com/CFdefense/MenuAlertsAI) - **(In Progress)** AI Menu SMTP Notifier
 - [6502 Compiler](https://github.com/CFdefense/CMPT432N-6502-Java-Compiler) - My Beautiful 6502 Microprocessor Compiler.
 - [Chippy 8](https://github.com/CFdefense/Chip-8-Emulator) - A Fun And Interactive Way to Play Retro Games.
 - [Doom](https://github.com/CFdefense/DoomGame) - A DOOM-style CLI game.
