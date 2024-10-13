@@ -2,7 +2,7 @@
 
 My Name is Christian Farrell. 
 <br /><br />
-I am a sophomore at Marist College, where I am studying Computer Science (Software Development Concentration) and Cybersecurity. 
+I am a student at Marist College, where I am studying Computer Science (Software Development Concentration).
 <br /><br />
 I'm interested in all things Software Engineering, Cybersecurity, Videogames, Anime, and Lacrosse. 
 <br /><br />
