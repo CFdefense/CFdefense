@@ -9,6 +9,7 @@ I'm interested in all things Software Engineering, Cybersecurity, Videogames, An
 Feel Free to Reach out!
 <h3>Check Out My Website <a href = "https://cfdefense.github.io/">HERE!</a></h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFdefense&theme=tokyonight" alt="My GitHub Stats" align="right" style="margin-left: 10px;">
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=cfdefense&theme=calm_pink&hide_border=false" alt="Github Stats 2" align="right" style="margin-left: 10px;">-->
 <h3>Socials:</h3>
 <a href="https://linkedin.com/in/christian-farrell1"><img src="https://companieslogo.com/img/orig/linkedin-2c3012a9.png?t=1700798504" width="40" height="40"/></a>
 <a href="https://leetcode.com/CFdefense/"><img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" width="40" height="40"/></a>
