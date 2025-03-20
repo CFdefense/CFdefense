@@ -2,11 +2,11 @@
 
 My Name is Christian Farrell. 
 <br /><br />
-I am a student at Marist College, where I am studying Computer Science (Software Development Concentration).
+I am a Masters student at Marist University studying Computer Science with a concentration in AI.
 <br /><br />
 I'm interested in all things Software Engineering, Cybersecurity, Videogames, Anime, and Lacrosse. 
 <br /><br />
-Feel Free to Reach out!
+Let's get in contact!
 <h3>Check Out My Website <a href = "https://cfdefense.github.io/">HERE!</a></h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFdefense&theme=tokyonight" alt="My GitHub Stats" align="right" style="margin-left: 10px;">
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=cfdefense&theme=calm_pink&hide_border=false" alt="Github Stats 2" align="right" style="margin-left: 10px;">-->
