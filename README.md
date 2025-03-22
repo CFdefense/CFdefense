@@ -6,7 +6,7 @@ I am a Masters student at Marist University studying Computer Science with a con
 <br /><br />
 I'm interested in all things Software Engineering, Cybersecurity, Videogames, Anime, and Lacrosse. 
 <br /><br />
-Let's get in contact!
+Let's Connect!
 <h3>Check Out My Website <a href = "https://cfdefense.github.io/">HERE!</a></h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFdefense&theme=tokyonight" alt="My GitHub Stats" align="right" style="margin-left: 10px;">
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=cfdefense&theme=calm_pink&hide_border=false" alt="Github Stats 2" align="right" style="margin-left: 10px;">-->
