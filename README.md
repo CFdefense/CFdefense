@@ -23,6 +23,5 @@ Let's Connect!
 - [AI Menu Alerts](https://github.com/CFdefense/MenuAlertsAI) - **(In Progress)** AI Menu SMTP Notifier
 - [6502 Compiler](https://github.com/CFdefense/CMPT432N-6502-Java-Compiler) - My Beautiful 6502 Microprocessor Compiler.
 - [Chippy 8](https://github.com/CFdefense/Chip-8-Emulator) - A Fun And Interactive Way to Play Retro Games.
-- [Doom](https://github.com/CFdefense/DoomGame) - A DOOM-style CLI game.
 - [Algorithms](https://github.com/CFdefense/CMPT435L) - Everything Algorithms and Data Structures.
 - [Dotfiles](https://github.com/CFdefense/dotfiles) - My Arch Linux Hyprland Dot Files
