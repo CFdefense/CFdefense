@@ -22,6 +22,6 @@ Let's Connect!
 - [Gameboy Emulator](https://github.com/CFdefense/GameBoy) - **(In Progress)** Rust Gameboy Emulator
 - [AI Menu Alerts](https://github.com/CFdefense/MenuAlertsAI) - **(In Progress)** AI Menu SMTP Notifier
 - [6502 Compiler](https://github.com/CFdefense/CMPT432N-6502-Java-Compiler) - My Beautiful 6502 Microprocessor Compiler.
-- [Chippy 8](https://github.com/CFdefense/Chip-8-Emulator) - A Fun And Interactive Way to Play Retro Games.
+- [Chippy 8](https://github.com/CFdefense/Chip-8-Emulator) - An Interactive Retro Game Interpretter.
 - [Algorithms](https://github.com/CFdefense/CMPT435L) - Everything Algorithms and Data Structures.
 - [Dotfiles](https://github.com/CFdefense/dotfiles) - My Arch Linux Hyprland Dot Files
