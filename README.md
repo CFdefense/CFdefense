@@ -19,7 +19,7 @@ Let's Connect!
 
 ### 📁 Featured Projects:
 - [Vynn](https://github.com/CFdefense/Vynn) - **(Most Recent)** AI Powered Neovim Editor Tailored For Writers
-- - [AI Menu Alerts](https://github.com/CFdefense/MenuAlertsAI) - **(In Progress)** AI Menu SMTP Notifier
+- [AI Menu Alerts](https://github.com/CFdefense/MenuAlertsAI) - **(In Progress)** AI Menu SMTP Notifier
 - [Gameboy Emulator](https://github.com/CFdefense/GameBoy) - Multithreaded Rust Gameboy Emulator
 - [6502 Compiler](https://github.com/CFdefense/CMPT432N-6502-Java-Compiler) - My Beautiful 6502 Microprocessor Compiler.
 - [Chippy 8](https://github.com/CFdefense/Chip-8-Emulator) - An Interactive Retro Game Interpretter.
