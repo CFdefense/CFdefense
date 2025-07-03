@@ -7,9 +7,11 @@ I am a masters student at Marist University studying Computer Science with a con
 I'm interested in all things software engineering, cybersecurity, videogames, anime, and lacrosse. 
 <br /><br />
 Let's Connect!
+<br /><br />
 <h4>Check Out My <a href = "https://cfdefense.github.io/">Website</a></h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFdefense&theme=tokyonight" alt="My GitHub Stats" align="right" style="margin-left: 10px;">
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=cfdefense&theme=calm_pink&hide_border=false" alt="Github Stats 2" align="right" style="margin-left: 10px;">-->
+<br /><br />
 
 ### 📁 Featured Projects:
 - [Vynn](https://github.com/CFdefense/Vynn) - **(Most Recent)** AI Powered Neovim Editor Tailored For Writers
