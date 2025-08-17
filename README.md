@@ -14,10 +14,10 @@ Let's Connect!
 <br /><br />
 
 ### 📁 Featured Projects:
-- [Vynn](https://github.com/CFdefense/Vynn) - An Agentic Neovim Inspired Editor Tailored For Writers
-- [Sea](https://github.com/CFdefense/Sea) - A Modern Reimagation of System Programming
-- [Gameboy Emulator](https://github.com/CFdefense/GameBoy) - Multithreaded Rust Gameboy Emulator
-- [6502 Compiler](https://github.com/CFdefense/CMPT432N-6502-Java-Compiler) - My Beautiful 6502 Microprocessor Compiler.
+- [Vynn](https://github.com/CFdefense/Vynn) - An Agentic Neovim Inspired Editor Tailored to Writers.
+- [Sea](https://github.com/CFdefense/Sea) - A Modern Reimagation of System Programming.
+- [Gameboy Emulator](https://github.com/CFdefense/GameBoy) - Multithreaded Rust Gameboy Emulator.
+- [ClassQL](https://github.com/CFdefense/ClassQL) - A DSL Query Engine For Finding Your Ideal Schedule.
 - [Chippy 8](https://github.com/CFdefense/Chip-8-Emulator) - An Interactive Retro Game Interpretter.
-- [Algorithms](https://github.com/CFdefense/CMPT435L) - Everything Algorithms and Data Structures.
-- [Dotfiles](https://github.com/CFdefense/dotfiles) - My Arch Linux Hyprland Dot Files
+- [6202 Emulator](https://github.com/CFdefense/6502-Emulator) - A Custom 6502 Emulator.
+- [Dotfiles](https://github.com/CFdefense/dotfiles) - My Arch Linux Hyprland Dot Files.
