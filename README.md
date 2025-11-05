@@ -2,7 +2,7 @@
 
 My name is Christian Farrell. 
 <br /><br />
-I am a masters student at Marist University studying Computer Science with a concentration in AI.
+I am a masters student at Marist University studying Computer Science with a concentration in Artificial Intelligence.
 <br /><br />
 I'm interested in all things software engineering, cybersecurity, videogames, anime, and lacrosse. 
 <br /><br />
