@@ -1,5 +1,3 @@
-<h2>Hello!</h2>
-
 My name is Christian Farrell. 
 <br />
 
