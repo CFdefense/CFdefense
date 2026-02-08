@@ -16,7 +16,7 @@ Let's Connect!
 <br />
 
 ### 📁 Featured Projects:
-- [Gameboy Emulator](https://github.com/CFdefense/GameBoy) - Multithreaded Rust Gameboy Emulator.
+- [RustedROM](https://github.com/CFdefense/GameBoy) - Multithreaded Rust Gameboy Emulator.
 - [Journey](https://github.com/CFdefense/Journey) - Agentic AI For Travel Planning
 - [Vynn](https://github.com/CFdefense/Vynn) - An Agentic Neovim-Inspired Editor Tailored to Writers.
 - [ClassQL](https://github.com/CFdefense/ClassQL) - A DSL Query Engine For Finding Your Ideal Schedule.
