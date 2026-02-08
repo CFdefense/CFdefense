@@ -11,7 +11,13 @@ Let's Connect!
 <br />
 
 <h3>Check Out My <a href = "https://cfdefense.github.io/">Website</a></h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFdefense&theme=tokyonight" alt="My GitHub Stats" align="right" style="margin-left: 10px; onerror="this.style.display='none'">
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFdefense&theme=tokyonight"
+  alt="My GitHub Stats"
+  align="right"
+  style="margin-left: 10px;"
+  onerror="this.style.display='none'"
+>
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=cfdefense&theme=calm_pink&hide_border=false" alt="Github Stats 2" align="right" style="margin-left: 10px;">-->
 <br />
 
