@@ -1,10 +1,13 @@
 My name is Christian Farrell. 
 <br />
 
+I am currently working at IBM Storage Scale.
+<br />
+
 I am a master's student at Marist University studying Computer Science with a concentration in Artificial Intelligence.
 <br />
 
-I'm interested in all things software engineering, cybersecurity, video games, anime, and lacrosse. 
+I'm interested in all things software engineering, AI, video games, anime, and lacrosse. 
 <br /><br />
 
 Let's Connect!
