@@ -12,7 +12,7 @@ Let's Connect!
 <br />
 <h3>Check Out My <a href = "https://cfdefense.github.io/">Website</a></h3>
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFdefense&theme=tokyonight"
+  src="https://github-stats-extended.vercel.app/api?username=cfdefense&include_all_commits=true&theme=prussian"
   alt="My GitHub Stats"
   align="right"
   style="margin-left: 10px;"
