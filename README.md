@@ -13,7 +13,7 @@ I'm interested in all things software engineering, AI, video games, anime, and l
 Let's Connect!
 <br />
 <br />
-<h3>Check Out My <a href = "https://cfdefense.github.io/">Website</a></h3>
+<h3>Check Out My <a href = "https://christianfarrell.dev">Portfolio</a></h3>
 <img 
   src="https://github-stats-extended.vercel.app/api?username=cfdefense&include_all_commits=true&theme=prussian"
   alt="My GitHub Stats"
